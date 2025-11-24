@@ -1,6 +1,5 @@
 # Shocos Vision Aruba — Enhanced Interactive Markdown Business Plan
 
-![Shocos Vision Logo](Shocos Vision Aruba.jpg)
 
 ## Table of Contents
 1. Executive Summary
